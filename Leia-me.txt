@@ -1,9 +1,0 @@
-Grupo: Leonam Lucas, Márcio Henrique e Gabriel Teles.
-
-Os Jars e as Natives da biblioteca estão dentro da pasta lib.
-
-Fontes de pesquisa:
-
-http://wiki.lwjgl.org/
-https://ahbejarano.gitbook.io/lwjglgamedev/
-https://www.youtube.com/user/ThinMatrix
